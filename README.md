@@ -1,92 +1,124 @@
-<h1 align="center">Subash Balaji</h1>
-<h3 align="center">AI & Backend Engineering</h3>
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
 
----
+```markdown
+<div align="center">
 
-## Profile
+```
+███████╗██╗   ██╗██████╗  █████╗ ███████╗██╗  ██╗
+██╔════╝██║   ██║██╔══██╗██╔══██╗██╔════╝██║  ██║
+███████╗██║   ██║██████╔╝███████║███████╗███████║
+╚════██║██║   ██║██╔══██╗██╔══██║╚════██║██╔══██║
+███████║╚██████╔╝██████╔╝██║  ██║███████║██║  ██║
+╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+```
 
-Engineer focused on Artificial Intelligence and Backend Systems.  
-Interested in building scalable AI-driven products and robust backend architectures.
+### `> Backend Engineer · AI/ML Enthusiast · Cloud Architect`
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems+%F0%9F%94%A7;Exploring+LLMs+%26+RAG+Applications+%F0%9F%A4%96;Backend+%2B+AI+%3D+%E2%9C%A8+The+Future;Always+learning%2C+always+building...)](https://git.io/typing-svg)
 
-## Core Technologies
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+</div>
 
 ---
 
-### Artificial Intelligence & Machine Learning
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC0000?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-E34A6F?style=for-the-badge&logo=pytorch&logoColor=white)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-111111?style=for-the-badge)
+## `$ whoami`
+
+```python
+subash = {
+    "role"        : "Backend Developer",
+    "passions"    : ["AI/ML", "LLMs", "System Design", "Cloud Architecture"],
+    "currently"   : ["System Design", "Flask", "RAG Applications",
+                     "TensorFlow", "PyTorch", "LangChain"],
+    "certified"   : "☁️  AWS Certified Cloud Practitioner",
+    "motto"       : "Build fast. Build smart. Build to scale.",
+}
+```
 
 ---
 
-### LLM & Generative AI
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG%20Pipelines-4B0082?style=for-the-badge)
-![OpenAI API](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6A0DAD?style=for-the-badge)
+## `$ ls tech-stack/`
+
+### ⚙️ Languages
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+
+### 🚀 Backend & APIs
+
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![REST API](https://img.shields.io/badge/REST-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://restfulapi.net/)
+
+### 🗄️ Databases
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+### 🐳 DevOps & Infrastructure
+
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![CLI](https://img.shields.io/badge/CLI-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+
+### 🤖 AI / ML Stack
+
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
 
 ---
 
-### Backend Development
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+## `$ cat certifications.txt`
+
+> ☁️ **[AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)** — Amazon Web Services
 
 ---
 
-### Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+## `$ cat currently_learning.log`
+
+```bash
+[ACTIVE]  System Design & Architecture
+[ACTIVE]  RAG (Retrieval-Augmented Generation) Applications
+[ACTIVE]  Large Language Models (LLMs)
+[ACTIVE]  Flask · TensorFlow · PyTorch · LangChain
+[QUEUE ]  Cloud-native Backend Architecture
+```
 
 ---
 
-## Currently Learning
+## `$ git stats --user=Subash`
 
-![System Design](https://img.shields.io/badge/System%20Design-000000?style=for-the-badge)
-![Advanced Deep Learning](https://img.shields.io/badge/Advanced%20Deep%20Learning-8B0000?style=for-the-badge)
-![LLM Architecture](https://img.shields.io/badge/LLM%20Architecture-4B0082?style=for-the-badge)
-![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-2E8B57?style=for-the-badge)
+<div align="center">
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF)
 
-## Areas of Interest
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF)
 
-Artificial Intelligence  
-Large Language Models  
-Backend Architecture  
-Scalable Systems  
-AI Product Engineering  
+![GitHub Streak](https://streak-stats.demolab.com?user=Subash&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF6C37&currStreakLabel=00F5FF)
+
+</div>
 
 ---
 
-## GitHub Statistics
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default" height="160"/>
-</p>
+```
+╔══════════════════════════════════════╗
+║   Backend · AI/ML · Cloud · Scale   ║
+║        Let's build the future.       ║
+╚══════════════════════════════════════╝
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=Subash&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+```
 
 ---
-
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subashbalaji--/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.subashbalaji8@gmail.com)
 
