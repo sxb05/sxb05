@@ -1,8 +1,8 @@
 <div align="center">
 
-### Backend Engineer · AI/ML Enthusiast · Cloud Architect
+### Backend Engineering Student · AI/ML Explorer · Cloud Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Exploring+LLMs+and+RAG+Applications;Backend+%2B+AI+for+Production+Systems;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Learning+to+Build+Scalable+Backend+Systems;Exploring+LLMs+and+RAG+Applications;Backend+%2B+AI+for+Production+Systems;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,8 +12,8 @@
 
 ```python
 subash = {
-    "role"        : "Backend Developer",
-    "focus"       : ["AI/ML Systems", "LLMs", "System Design", "Cloud Architecture"],
+    "role"        : "Computer Science Student",
+    "focus"       : ["Backend Engineering", "AI/ML Systems", "LLMs", "System Design", "Cloud Architecture"],
     "currently"   : [
         "System Design",
         "Flask",
@@ -23,9 +23,9 @@ subash = {
         "LangChain"
     ],
     "certified"   : "AWS Certified Cloud Practitioner",
-    "motto"       : "Build fast. Build smart. Build to scale."
+    "motto"       : "Learn deeply. Build consistently. Improve daily."
 }
-```
+
 
 ---
 
@@ -86,23 +86,7 @@ subash = {
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subash&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Subash&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF6C37&currStreakLabel=00F5FF)
-
-</div>
-
----
-
-<div align="center">
-
-Backend · AI/ML · Cloud · Scalable Systems  
+  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Subash&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS)
 
