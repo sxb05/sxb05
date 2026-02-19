@@ -1,13 +1,6 @@
-Here is your **updated full README.md code**:
 
-* ✅ Narrative changed to reflect you are a **student**
-* ❌ GitHub Analytics section removed
-* ✨ Clean, consistent, professional tone
-* 📌 Ready to copy-paste directly
 
----
 
-````markdown
 <div align="center">
 
 ### Backend Engineering Student · AI/ML Explorer · Cloud Enthusiast
