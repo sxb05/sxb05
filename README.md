@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0077b6,100:00f5ff&height=120&section=header&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+Python+%7C+FastAPI+%7C+PostgreSQL;Building+Production-Grade+REST+APIs;AWS+Certified+Cloud+Practitioner+%7C+SAA-C03+In+Prep;DSA+%E2%86%92+NeetCode+250+%E2%86%92+LeetCode+Hard+%E2%86%92+Codeforces)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+Python+%7C+FastAPI+%7C+PostgreSQL;Building+Production-Grade+REST+APIs;AWS+Certified+Cloud+Practitioner+%7C+SAA-C03+In+Prep;Grinding+DSA+%7C+Interested+in+AI%2FML+%26+LLMs)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,8 +14,9 @@
 subash = {
     "role"      : "Backend Engineering Student",
     "building"  : "Production REST APIs — FastAPI + PostgreSQL + Redis + AWS",
-    "grinding"  : "NeetCode 250 → LeetCode Hard → Codeforces",
     "certified" : "AWS Certified Cloud Practitioner",
+    "interests" : ["Backend Systems", "AI/ML", "LLMs", "System Design", "Cloud Architecture"],
+    "dsa"       : "Actively grinding — NeetCode 250 → LeetCode Hard → Codeforces",
     "motto"     : "Depth before breadth. Ship before perfect.",
 }
 ```
@@ -34,7 +35,7 @@ subash = {
 
 ---
 
-### BACKEND & APIs
+### BACKEND & APIs — `actively building`
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -50,14 +51,14 @@ subash = {
 
 ---
 
-### DATABASES & CACHE
+### DATABASES & CACHE — `proficient in PostgreSQL · learning Redis`
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ---
 
-### CLOUD — AWS
+### CLOUD — AWS `· learning & hands-on`
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
@@ -71,7 +72,7 @@ subash = {
 
 ---
 
-### DEVOPS & INFRASTRUCTURE
+### DEVOPS & INFRASTRUCTURE — `learning · some hands-on`
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -82,7 +83,7 @@ subash = {
 
 ---
 
-### SECURITY & MONITORING
+### SECURITY & MONITORING — `learning`
 
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 ![bcrypt](https://img.shields.io/badge/bcrypt-003087?style=flat-square&logo=letsencrypt&logoColor=white)
@@ -91,7 +92,7 @@ subash = {
 
 ---
 
-### TESTING & QUALITY
+### TESTING & QUALITY — `learning`
 
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -113,74 +114,31 @@ subash = {
 
 ---
 
+### AI / ML — `interested · exploring`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logo=databricks&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+
+> Keen on building AI-powered backend systems — RAG pipelines, LLM integrations, and model serving via FastAPI. Exploring this space alongside core backend engineering.
+
+---
+
 ## `$ cat current-focus.txt`
 
 ```bash
 [SHIPPING]  E-Commerce REST API        FastAPI + PostgreSQL + Redis + Celery + AWS
 [SHIPPING]  Distributed URL Shortener  Consistent Hashing + Redis + FastAPI
-[GRINDING]  NeetCode 250               Arrays → HashMaps → Trees → Graphs → DP
+[GRINDING]  DSA                        NeetCode 250 → LeetCode Hard → Codeforces
 [PREP]      AWS SAA-C03                Solutions Architect Associate
 ```
-
----
-
-## `$ ls projects/`
-
-### E-Commerce REST API
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-Production-grade e-commerce backend. JWT auth, role-based access, cart, orders, Redis caching, Celery async tasks, Razorpay payments, deployed on AWS EC2 + RDS + S3.
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Subash/ecommerce-api)
-[![Docs](https://img.shields.io/badge/Swagger-Live_Docs-85EA2D?style=flat-square&logo=swagger)](https://your-api-url/docs)
-
----
-
-### Distributed URL Shortener
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-
-High-throughput URL shortener with consistent hashing, sub-10ms redirects, click analytics, rate limiting via Redis token bucket, and horizontal scaling.
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Subash/url-shortener)
-[![Docs](https://img.shields.io/badge/Swagger-Live_Docs-85EA2D?style=flat-square&logo=swagger)](https://your-api-url/docs)
-
----
-
-## `$ cat dsa-progress.md`
-
-| Platform | Progress | Target |
-|---|---|---|
-| NeetCode 250 | In Progress | Month 3 |
-| LeetCode Hard | Starting Month 3 | 50+ problems |
-| Codeforces | Starting Month 6 | Rating 1400+ |
-
-```
-Patterns — Completed      Arrays · HashMap · Two Pointers · Sliding Window
-Patterns — In Progress    Binary Search · Stacks · Linked Lists · Trees
-Patterns — Upcoming       Graphs · DP · Backtracking · Heaps · Tries
-```
-
----
-
-## `$ git log --oneline`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subash&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00f5ff&text_color=cce0f5&include_all_commits=true&count_private=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Subash&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subash&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=cce0f5&langs_count=6&hide=jupyter+notebook)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:0077b6,100:0d1117&height=80&section=footer" width="100%"/>
