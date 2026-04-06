@@ -2,11 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0077b6,100:00f5ff&height=120&section=header&animation=fadeIn" width="100%"/>
 
-# SUBASH
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+Python+%7C+FastAPI+%7C+PostgreSQL;Building+Production-Grade+REST+APIs;DSA+Grind+%E2%86%92+NeetCode+250+%E2%86%92+LeetCode+Hard+%E2%86%92+Codeforces;AWS+Certified+%7C+Targeting+Google+L3+%E2%80%94+2027)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Subash&color=00f5ff&style=flat-square&label=Profile+Views)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+Python+%7C+FastAPI+%7C+PostgreSQL;Building+Production-Grade+REST+APIs;AWS+Certified+Cloud+Practitioner+%7C+SAA-C03+In+Prep;DSA+%E2%86%92+NeetCode+250+%E2%86%92+LeetCode+Hard+%E2%86%92+Codeforces)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,11 +13,9 @@
 ```python
 subash = {
     "role"      : "Backend Engineering Student",
-    "goal"      : "Software Engineer @ Google — 2027",
     "building"  : "Production REST APIs — FastAPI + PostgreSQL + Redis + AWS",
     "grinding"  : "NeetCode 250 → LeetCode Hard → Codeforces",
     "certified" : "AWS Certified Cloud Practitioner",
-    "learning"  : ["AWS Solutions Architect Associate", "Kubernetes", "Linux internals"],
     "motto"     : "Depth before breadth. Ship before perfect.",
 }
 ```
@@ -107,8 +101,9 @@ subash = {
 
 ---
 
-### LEARNING NEXT
+### IN PREPARATION
 
+![AWS SAA-C03](https://img.shields.io/badge/AWS_SAA--C03-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
@@ -121,12 +116,10 @@ subash = {
 ## `$ cat current-focus.txt`
 
 ```bash
-[SHIPPING]  E-Commerce REST API     FastAPI + PostgreSQL + Redis + Celery + AWS
+[SHIPPING]  E-Commerce REST API        FastAPI + PostgreSQL + Redis + Celery + AWS
 [SHIPPING]  Distributed URL Shortener  Consistent Hashing + Redis + FastAPI
-[GRINDING]  NeetCode 250            Arrays → HashMaps → Trees → Graphs → DP
-[STUDYING]  AWS Solutions Architect Associate
-[READING]   System Design — ByteByteGo → Designing Data-Intensive Applications
-[TARGET]    Google L3 SWE — Bengaluru — 2027
+[GRINDING]  NeetCode 250               Arrays → HashMaps → Trees → Graphs → DP
+[PREP]      AWS SAA-C03                Solutions Architect Associate
 ```
 
 ---
@@ -178,26 +171,6 @@ Patterns — Upcoming       Graphs · DP · Backtracking · Heaps · Tries
 
 ---
 
-## `$ cat roadmap.txt`
-
-```
-NOW ──────────────────────────────────────────────────── 2027
-│                                                            │
-├── [NOW]     Python · FastAPI · PostgreSQL · Redis · AWS    │
-│                                                            │
-├── [Q2 2026] E-Commerce API live · AWS SAA · 150 LC done   │
-│                                                            │
-├── [Q3 2026] URL Shortener · NeetCode 250 done · First Job  │
-│                                                            │
-├── [Q4 2026] LeetCode Hard · Codeforces · DDIA · Go/C++    │
-│                                                            │
-├── [2027 H1] Advanced DSA · System Design · Kubernetes      │
-│                                                            │
-└── [2027 H2] Google L3 SWE · Bengaluru ◀───────────────────┘
-```
-
----
-
 ## `$ git log --oneline`
 
 <div align="center">
@@ -210,15 +183,4 @@ NOW ─────────────────────────�
 
 </div>
 
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![AWS](https://img.shields.io/badge/AWS_Certified-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:0077b6,100:0d1117&height=80&section=footer" width="100%"/>
-
-</div>
