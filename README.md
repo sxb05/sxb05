@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0077b6,100:00f5ff&height=120&section=header&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Backend+Engineer+in+the+Making+%7C+Python+%7C+FastAPI+%7C+PostgreSQL;Building+Production-Grade+REST+APIs+with+Docker+%26+Alembic;Python+%7C+C+%7C+C%2B%2B+%7C+SQL+%7C+HTML+%7C+CSS+%7C+JavaScript+%7C+TypeScript;Built+a+Multi-Agent+Research+System+%7C+Live+on+Render;Building+HelloGPT+%7C+LangGraph+%2B+RAG+%2B+Gemini;AWS+Certified+Cloud+Practitioner+%7C+SAA-C03+In+Prep;Grinding+DSA+%7C+Curious+about+AI%2FML+%26+LLMs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Backend+Engineering+Student+%7C+Python+%7C+FastAPI+%7C+PostgreSQL;Building+REST+APIs%2C+LLM+Agents+%26+RAG+Systems)](https://git.io/typing-svg)
 
 <br/>
 
@@ -13,24 +13,10 @@
 
 </div>
 
----
-
-## `$ whoami`
-
-```python
-subash = {
-    "name"      : "Subash Balaji S",
-    "role"      : "Backend Engineering Student (Medical Electronics @ DSCE)",
-    "learning"  : "REST APIs — FastAPI + PostgreSQL + Redis + Docker",
-    "building"  : ["Production-style CRUD APIs", "Multi-agent LLM systems", "RAG chatbots"],
-    "certified" : "AWS Certified Cloud Practitioner",
-    "prepping"  : "AWS Solutions Architect Associate (SAA-C03)",
-    "interests" : ["Backend Systems", "Cloud Architecture", "System Design", "AI/ML"],
-    "dsa"       : "Grinding LeetCode + UC San Diego DSA Specialization",
-    "habit"     : "Daily commits — every push is end-of-day progress",
-    "motto"     : "Depth before breadth. Ship before perfect.",
-}
-```
+<p align="center">
+Backend-focused engineering student at DSCE (Electronics), building REST APIs and LLM agents.<br/>
+AWS Certified Cloud Practitioner, preparing for Solutions Architect Associate (SAA-C03) and working through DSA on LeetCode.
+</p>
 
 ---
 
@@ -240,29 +226,7 @@ A **Streamlit chat app** powered by a LangChain agent that decides when to call 
 [PREP]       AWS SAA-C03                         Solutions Architect Associate
 ```
 
----
-
-## `$ git stats`
-
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sxb05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=0077b6" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxb05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff" alt="Top Languages"/>
-
-<img src="https://streak-stats.demolab.com?user=sxb05&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=0077b6&currStreakLabel=00f5ff" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## `$ ./connect.sh`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subashbalaji--/)
-[![Repos](https://img.shields.io/badge/Browse-Repositories-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sxb05?tab=repositories)
-
-*Open to feedback, code reviews, and backend / cloud learning buddies.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:0077b6,100:0d1117&height=80&section=footer" width="100%"/>
 
