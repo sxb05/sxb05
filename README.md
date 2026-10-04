@@ -27,17 +27,15 @@ AWS Certified Cloud Practitioner, preparing for Solutions Architect Associate (S
 <td width="50%" valign="top">
 
 ### [Multi-Agent Research System](https://github.com/sxb05/Multi-Agent_Research_sys)
-![Live](https://img.shields.io/badge/status-live_on_Render-46E3B7?style=flat-square) ![License](https://img.shields.io/badge/license-Apache--2.0-blue?style=flat-square)
+![Live](https://img.shields.io/badge/status-live_on_Render-46E3B7?style=flat-square)
 
-A **React + FastAPI research workspace** that turns a question into a sourced, reviewed report through a four-stage agent pipeline.
+A **React + FastAPI** workspace that turns a question into a sourced, reviewed report.
 
 - **Search** (Tavily) → **Extract** (Trafilatura) → **Write** (Gemini) → **Review** (LLM critic)
 - Separate views for sources, notes, report and critique
-- Report download as Markdown
-- Layered design: pipelines → agents → tools
-- **Multi-stage Dockerfile**: non-root user, health check, read-only Compose setup
+- Dockerised with a non-root, multi-stage build
 
-`React` `TypeScript` `FastAPI` `LangChain` `Gemini` `Groq` `Docker`
+`React` `FastAPI` `LangChain` `Gemini` `Docker`
 
 [**Try the live demo →**](https://multi-agent-research-sys-72wp.onrender.com)
 
@@ -45,57 +43,15 @@ A **React + FastAPI research workspace** that turns a question into a sourced, r
 <td width="50%" valign="top">
 
 ### [HelloGPT](https://github.com/sxb05/HelloGPT)
-![Status](https://img.shields.io/badge/status-in_progress-FF9900?style=flat-square) ![Deploy](https://img.shields.io/badge/deployment-coming_soon-lightgrey?style=flat-square)
+![Status](https://img.shields.io/badge/status-in_progress-FF9900?style=flat-square)
 
-A **ChatGPT-style assistant** with a dark, responsive UI and a LangGraph-powered agent behind it.
+A **ChatGPT-style assistant** with a **LangGraph** agent behind a dark, responsive UI.
 
-- Persistent conversations (SQLite + SQLAlchemy)
-- **LangGraph** agent with long-term memory and web search tools
-- **RAG** over uploaded PDF, DOCX, TXT and Markdown files (Chroma vector store)
-- Selectable Gemini models from the UI
-- Next up: auth, streaming responses, tests, deployment
+- Persistent chats (SQLite + SQLAlchemy)
+- Long-term memory and web search tools
+- **RAG** over PDF, DOCX, TXT and Markdown (Chroma)
 
-`React` `TypeScript` `Vite` `FastAPI` `LangGraph` `Chroma` `Gemini`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [FastAPI + PostgreSQL Backend](https://github.com/sxb05/backend-with-fastapi)
-![Commits](https://img.shields.io/badge/39_commits-daily_progress-00F5FF?style=flat-square)
-
-A learning-in-public repo that has grown into a **containerised REST API** for product management.
-
-- Full CRUD with proper HTTP status codes
-- Pydantic validation + SQLAlchemy ORM
-- Dependency-injected DB sessions
-- **Alembic** migrations
-- **Docker + Docker Compose** (API + Postgres)
-- Env-based config (`.env.example`, JWT settings)
-- Deployment config for **Render**
-- Test suite in `/test`
-
-`FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### [LangChain AI Assistant](https://github.com/sxb05/LANGCHAIN_AGENT)
-![Live](https://img.shields.io/badge/status-live_on_Render-46E3B7?style=flat-square)
-
-A **Streamlit chat app** powered by a LangChain agent that decides when to call tools.
-
-- Google **Gemini** for responses
-- **Tavily** web search for current info
-- **Weatherstack** for live weather
-- Session-based chat history
-- Graceful handling of missing keys / API errors
-- Research notebook with agent experiments
-
-`Python` `LangChain` `Gemini` `Streamlit` `Tavily`
-
-[**Try the live demo →**](https://langchain-agent-p2z5.onrender.com/)
+`React` `FastAPI` `LangGraph` `Chroma` `Gemini`
 
 </td>
 </tr>
