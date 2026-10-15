@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0077b6,100:00f5ff&height=120&section=header&animation=fadeIn" width="100%"/>
@@ -26,6 +27,23 @@ AWS Certified Cloud Practitioner, preparing for Solutions Architect Associate (S
 <tr>
 <td width="50%" valign="top">
 
+### [PageTrail](https://github.com/sxb05/Pagetrail)
+![Live](https://img.shields.io/badge/status-live_on_Render-46E3B7?style=flat-square)
+
+A **FastAPI + React + TypeScript** document-aware AI chat app with retrieval, web search, and long-term memory.
+
+- Chat with uploaded PDF, DOCX, TXT and Markdown files using RAG
+- Persistent, user-specific conversations and long-term memory
+- Optional Tavily web search, powered by Google Gemini
+- Supabase PostgreSQL stores application data and document embeddings; embeddings are ranked with backend cosine similarity
+
+`React` `TypeScript` `FastAPI` `LangGraph` `Gemini` `Supabase` `Tavily`
+
+[**Try the live demo →**](https://pagetrail.onrender.com)
+
+</td>
+<td width="50%" valign="top">
+
 ### [Multi-Agent Research System](https://github.com/sxb05/Multi-Agent_Research_sys)
 ![Live](https://img.shields.io/badge/status-live_on_Render-46E3B7?style=flat-square)
 
@@ -38,20 +56,6 @@ A **React + FastAPI** workspace that turns a question into a sourced, reviewed r
 `React` `FastAPI` `LangChain` `Gemini` `Docker`
 
 [**Try the live demo →**](https://multi-agent-research-sys-72wp.onrender.com)
-
-</td>
-<td width="50%" valign="top">
-
-### [HelloGPT](https://github.com/sxb05/HelloGPT)
-![Status](https://img.shields.io/badge/status-in_progress-FF9900?style=flat-square)
-
-A **ChatGPT-style assistant** with a **LangGraph** agent behind a dark, responsive UI.
-
-- Persistent chats (SQLite + SQLAlchemy)
-- Long-term memory and web search tools
-- **RAG** over PDF, DOCX, TXT and Markdown (Chroma)
-
-`React` `FastAPI` `LangGraph` `Chroma` `Gemini`
 
 </td>
 </tr>
@@ -157,7 +161,7 @@ A **ChatGPT-style assistant** with a **LangGraph** agent behind a dark, responsi
 
 **Concepts practised:** multi-agent pipelines · tool-calling agents · RAG (chunking + vector search) · long-term agent memory · LLM-as-critic review loops
 
-> Shipped a tool-calling LangChain agent and a multi-agent research system, with a LangGraph + RAG chatbot (HelloGPT) in progress. Next: wiring these AI features into production-grade backends.
+> Shipped a tool-calling LangChain agent, a multi-agent research system, and PageTrail, a deployed document-aware chat app with LangGraph + RAG. Next: wiring these AI features into production-grade backends.
 
 ---
 
@@ -173,7 +177,7 @@ A **ChatGPT-style assistant** with a **LangGraph** agent behind a dark, responsi
 ## `$ cat current-focus.txt`
 
 ```bash
-[BUILDING]   HelloGPT                            React + FastAPI + LangGraph + RAG (in progress)
+[LIVE]       PageTrail                           React + FastAPI + LangGraph + RAG + Supabase, live on Render
 [BUILDING]   Mini Task/Project Management API    FastAPI + PostgreSQL + JWT Auth + Docker
 [PLANNING]   Distributed URL Shortener           Redis Caching + Rate Limiting
 [SHIPPED]    Multi-Agent Research System         Tavily + Gemini + React, live on Render
